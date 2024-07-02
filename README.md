@@ -1,3 +1,3 @@
 # first-project
-learn coding
+student- debasish panda
 author-debasish panda
